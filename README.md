@@ -261,7 +261,7 @@ Add the project image:
 ```markdown
 ## 🖼️ **PROJECT VISUALIZATION**
 
-![Gene_Expression-by-Patients](gene expression by patients analyzer.png)
+![Gene_Expression-by-Patients](./gene expression by patients analyzer.png)
 ```
 
 ---
