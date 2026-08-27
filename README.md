@@ -257,15 +257,9 @@ BIOLOGICAL INSIGHTS
 ```
 
 Add the project image:
+# 🖼️ **PROJECT VISUALIZATION**
 
-```markdown
-## 🖼️ **PROJECT VISUALIZATION**
-
-![Gene_Expression-by-Patients](./gene expression by patients analyzer.png)
-```
-
----
-
+![Gene Expression By Patients](./gene_expression_by_patients.png)
 # 🧠 **BIOLOGICAL INSIGHTS**
 
 Based on the example dataset:
