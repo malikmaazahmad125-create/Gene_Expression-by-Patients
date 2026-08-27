@@ -257,9 +257,9 @@ BIOLOGICAL INSIGHTS
 ```
 
 Add the project image:
-# 🖼️ **PROJECT VISUALIZATION**
+## 🖼️ **PROJECT VISUALIZATION**
 
-![Gene Expression By Patients](./gene_expression_by_patients.png)
+![Gene_Expression-by-Patients](./gene_expression_by_patients.png)
 # 🧠 **BIOLOGICAL INSIGHTS**
 
 Based on the example dataset:
