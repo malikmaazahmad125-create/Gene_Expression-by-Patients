@@ -446,11 +446,10 @@ Turning patient gene-expression data into structured biological insights using P
 
 This project is part of a growing collection of Computational Biology projects focused on combining biological knowledge with programming, data analysis, visualization, and machine learning.
 
-📜 LICENSE
+#**📜 LICENSE**
 
 This project is available for educational and learning purposes.
 
 ⭐ If you find this project useful, consider giving the repository a star!
 
 #Python #ComputationalBiology #GeneExpression #Genomics #DataScience #NumPy #Pandas #Matplotlib #Seaborn #Bioinformatics #MachineLearning
-
